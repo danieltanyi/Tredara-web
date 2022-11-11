@@ -38,7 +38,7 @@ const Footer = () => {
             <ul>
               <li>Contact</li>
               <li><a href="#">Tradera.com</a></li>
-              <li><a href="#">Hotline: +1 131 138 138</a></li>
+              <li><a href="#">Hotline: +46 7137 1348</a></li>
             </ul>
           </div>
         </div>
